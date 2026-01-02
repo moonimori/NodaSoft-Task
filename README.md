@@ -1,2 +1,2 @@
-# <a href="https://afoninis.github.io/NodaSoft-Task/">NodaSoft Task</a>
+# <a href="https://steelaura.github.io/NodaSoft-Task/">NodaSoft Task</a>
 My Solution
